@@ -6,7 +6,8 @@ Storing the FFT of each image in a database as a lookup table in order to match 
 User may be able to implement the above process for different fonts.
 
 Software: Matlab
-Font: Times New Roman
+
+Font: Times New Roman, Arial, Segoe Script, Courier New
 
 
 Members: Juan Toledo, Brett Chiu, Rodney Nobles, and Malik Awan
